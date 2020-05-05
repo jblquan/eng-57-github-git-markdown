@@ -1,5 +1,8 @@
 # Git, Github and Bash - Title for README
 
+This is an amazing repo! :D
+This isa second amazing line to see the power of GIT! 
+
 This repo covers the following concepts/tools:
 
 - Github
